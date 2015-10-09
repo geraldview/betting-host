@@ -1,0 +1,16 @@
+{
+  "name": "BettingHost",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bettingHost.js",
+    "test": "./node_modules/karma/bin/karma start"  
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-jasmine": "^0.3.6"
+  }
+}
