@@ -1,4 +1,4 @@
-# Betting Host Readme
+# Betting Host
 
 * IMPORTANT NOTE: BettingHost is a miniature NodeJS project which REQUIRES NodeJS to be installed in your system.
 
