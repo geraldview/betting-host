@@ -2,7 +2,7 @@
 
 * IMPORTANT NOTE: BettingHost is a miniature NodeJS project which REQUIRES NodeJS to be installed in your system.
 
-# Prerequisite / Dependencies
+## Prerequisite / Dependencies
 
  * Node.js
 
@@ -19,7 +19,7 @@ To download:
  ```sudo apt-get install --yes nodejs```
 
 
-# Run Script
+## Run Script
 
  * In your console cd to betting host project foler, run command 
  
@@ -58,7 +58,7 @@ Place:3:$0.88
 Exacta:1,2:$9.02
 ```
 
-# Run Unit Tests
+## Run Unit Tests
 
  * Karma test runner is required to run the unit tests.
 
