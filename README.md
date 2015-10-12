@@ -25,6 +25,7 @@ To download:
 
  * Paste bets & results test in the correct format, e.g.
 
+```sh
 Bet:W:1:20                                     
 Bet:W:2:30
 Bet:W:3:50
@@ -34,17 +35,18 @@ Bet:P:1:10
 Bet:E:1,2:10
 Bet:E:3,4:100
 Result:1:2:3
-
+```
 
 * press enter, output is something like
 
+```sh
 Dividends
 -------------
 Win:1:$4.25
 Place:1:$1.76
 Place:3:$0.88
 Exacta:1,2:$9.02
-
+```
 
 # Run Unit Tests
 
