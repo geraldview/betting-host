@@ -21,7 +21,17 @@ To download:
 
 # Run Script
 
- * In your console cd to betting host project foler, run command ```npm start``` or ```node bettingHost.js```
+ * In your console cd to betting host project foler, run command 
+ 
+ ```sh
+ npm start
+ ``` 
+ 
+ or 
+ 
+ ```sh
+ node bettingHost.js
+ ```
 
  * Paste bets & results test in the correct format, e.g.
 
@@ -52,9 +62,21 @@ Exacta:1,2:$9.02
 
  * Karma test runner is required to run the unit tests.
 
- * To install karma and other server side dependencies,  run command ```npm install```  in console within this app folder where 'package.json' sits.
+ * To install karma and other server side dependencies,  run command 
+ 
+ ```sh
+ npm install
+ ```  
+ 
+ in console within this app folder where 'package.json' sits.
 
- * After ```npm install``` finishes,  run  ```npm test```  to execute tests, you should be able to see a Chrome browser window pops up and in console stdout you should see the tests results.
+ * After ```npm install``` finishes,  run  
+ 
+ ```sh
+ npm test
+ ```  
+ 
+ to execute tests, you should be able to see a Chrome browser window pops up and in console stdout you should see the tests results.
 
 
 
