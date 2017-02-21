@@ -1,6 +1,7 @@
 # Betting Host
 
 * IMPORTANT NOTE: BettingHost is a miniature NodeJS project which REQUIRES NodeJS to be installed in your system.
+Betting Host takes command line input of different bet types, calculates the tote dividends and payout as the result of betting products pooling.
 
 ## Prerequisite / Dependencies
 
